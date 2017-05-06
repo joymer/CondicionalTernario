@@ -3,4 +3,4 @@ var Weapon;
 
 Weapon =isArthuro ? "Excalibur" : "Other";
 
-console.log (Weapon)
+console.log ("Es arturo?" + Weapon)
