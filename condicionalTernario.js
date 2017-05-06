@@ -1,7 +1,6 @@
-condicionalTernario.js
-
-var isArthuro=Falso;
+var isArthuro=false;
 var Weapon;
 
-Weapon =isArturo ? "Excalibur" : "Other";
+Weapon =isArthuro ? "Excalibur" : "Other";
+
 console.log (Weapon)
