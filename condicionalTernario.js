@@ -2,4 +2,10 @@ var isArthuro=true;
 var isking=true;
 
 
-isArthuro && isking? alert ("El rey es arturo "): alert ("El rey no es arturo");
+isArthuro && isking ? function () {
+	alert ("Es rey ");
+ 	console.log ("su arma es excalibur")
+ }():
+ function (){
+ 	alert ("Este no es el Rey");
+ 	 console.log ("Denle un cuhcillo de cocina")}();
